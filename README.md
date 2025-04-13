@@ -1,5 +1,7 @@
-🧠 Ask Me Anything – Flutter App
+**🧠 Ask Me Anything – Flutter App**
+
 A fun app to help you decide when you're stuck in a dilemma!
+
 
 📱 What is this App?
 Ask Me Anything is a simple yet fun Flutter-based mobile app that helps users make quick decisions when they’re confused or indecisive. With just a tap on the screen, the app randomly responds with phrases like:
@@ -42,7 +44,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/your_username/ask_me_anything.git
+git clone git clone https://github.com/Keshavpal22/ask_me_anything.git
 Navigate to the project directory
 
 bash
